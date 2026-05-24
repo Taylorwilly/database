@@ -1,0 +1,8 @@
+.env
+backups/
+*.log
+__pycache__
+*.pyc 
+.DC_Store
+Thumb.db
+Desktop.init
