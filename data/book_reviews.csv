@@ -1,0 +1,141 @@
+review_id,customer_id,book_id,rating,review_text,review_date
+1,47,10,4,Thoughtful and engaging read about digital cloud.,2025-04-01 00:54:00
+2,38,75,5,"Interesting, but some sections could be stronger.",2024-07-26 18:13:00
+3,35,70,3,Helpful for understanding the topic.,2024-08-29 20:49:00
+4,50,76,4,"Interesting, but some sections could be stronger.",2025-01-10 09:08:00
+5,26,47,4,"Interesting, but some sections could be stronger.",2024-09-14 00:42:00
+6,11,66,3,"Interesting, but some sections could be stronger.",2024-03-12 14:10:00
+7,10,62,3,Helpful for understanding the topic.,2025-04-25 11:02:00
+8,5,34,5,"Interesting, but some sections could be stronger.",2024-07-08 07:02:00
+9,24,50,2,Excellent book with strong examples.,2024-08-28 14:56:00
+10,7,67,5,"Interesting, but some sections could be stronger.",2024-11-20 08:53:00
+11,37,23,4,Excellent book with strong examples.,2024-07-11 20:24:00
+12,5,67,3,Helpful for understanding the topic.,2024-05-08 12:58:00
+13,23,63,5,"Interesting, but some sections could be stronger.",2025-02-09 15:56:00
+14,9,57,4,Good pacing and useful details.,2024-03-25 07:04:00
+15,10,24,5,Thoughtful and engaging read about database reader.,2024-03-21 11:38:00
+16,15,54,3,Excellent book with strong examples.,2025-02-19 10:46:00
+17,31,27,5,Thoughtful and engaging read about memory memory.,2024-10-29 05:41:00
+18,3,17,3,"Interesting, but some sections could be stronger.",2024-10-20 18:10:00
+19,37,19,5,"Interesting, but some sections could be stronger.",2024-01-29 05:16:00
+20,39,73,5,Excellent book with strong examples.,2024-11-22 00:56:00
+21,19,11,5,Helpful for understanding the topic.,2024-04-20 14:38:00
+22,15,53,4,Clear writing with practical examples.,2024-11-03 04:50:00
+23,43,66,5,Helpful for understanding the topic.,2024-05-15 05:46:00
+24,38,9,3,Thoughtful and engaging read about database midnight.,2024-04-27 12:24:00
+25,34,65,3,Thoughtful and engaging read about bookmark silent.,2024-12-16 13:52:00
+26,31,79,5,"Interesting, but some sections could be stronger.",2024-11-03 01:56:00
+27,8,12,5,"Interesting, but some sections could be stronger.",2024-09-03 21:08:00
+28,1,56,5,Excellent book with strong examples.,2024-09-24 13:23:00
+29,28,30,5,Good pacing and useful details.,2025-04-25 15:50:00
+30,48,74,4,Clear writing with practical examples.,2024-02-20 13:08:00
+31,6,37,4,Thoughtful and engaging read about memory winter.,2024-11-02 17:26:00
+32,48,1,4,Helpful for understanding the topic.,2024-10-22 16:07:00
+33,14,41,3,Excellent book with strong examples.,2024-07-28 11:06:00
+34,17,34,4,"Interesting, but some sections could be stronger.",2025-03-13 17:27:00
+35,44,51,4,"Interesting, but some sections could be stronger.",2025-01-21 06:26:00
+36,12,48,4,Good pacing and useful details.,2024-10-13 17:30:00
+37,23,51,5,Thoughtful and engaging read about northern query.,2025-01-11 04:54:00
+38,15,58,3,"Interesting, but some sections could be stronger.",2025-02-04 22:10:00
+39,22,71,5,Clear writing with practical examples.,2024-11-10 22:43:00
+40,41,1,3,"Interesting, but some sections could be stronger.",2025-02-15 02:52:00
+41,6,9,3,Thoughtful and engaging read about database midnight.,2024-05-14 07:23:00
+42,25,52,4,"Interesting, but some sections could be stronger.",2024-11-10 20:33:00
+43,50,23,1,Excellent book with strong examples.,2024-11-23 15:28:00
+44,34,37,4,"Interesting, but some sections could be stronger.",2024-04-09 01:50:00
+45,15,79,4,Excellent book with strong examples.,2024-03-27 21:02:00
+46,11,12,5,Helpful for understanding the topic.,2024-05-21 12:22:00
+47,13,67,2,Thoughtful and engaging read about systems memory.,2024-01-08 23:45:00
+48,19,72,4,Good pacing and useful details.,2025-04-13 18:22:00
+49,39,25,1,Clear writing with practical examples.,2024-08-20 12:36:00
+50,33,14,4,Thoughtful and engaging read about memory signal.,2024-10-13 02:32:00
+51,33,33,5,Good pacing and useful details.,2025-03-24 17:52:00
+52,29,49,4,Good pacing and useful details.,2024-10-15 15:49:00
+53,30,59,1,Thoughtful and engaging read about signal memory.,2025-04-04 18:55:00
+54,5,49,5,Good pacing and useful details.,2024-11-20 07:43:00
+55,23,67,5,Clear writing with practical examples.,2024-10-01 00:44:00
+56,6,52,4,"Interesting, but some sections could be stronger.",2024-12-10 23:52:00
+57,12,61,5,Good pacing and useful details.,2024-06-09 11:13:00
+58,48,25,4,Clear writing with practical examples.,2024-09-12 23:12:00
+59,17,27,4,"Interesting, but some sections could be stronger.",2024-04-27 06:53:00
+60,10,14,5,Helpful for understanding the topic.,2024-03-02 02:43:00
+61,1,70,4,"Interesting, but some sections could be stronger.",2025-05-05 01:54:00
+62,32,74,3,"Interesting, but some sections could be stronger.",2025-03-20 08:31:00
+63,26,29,2,Helpful for understanding the topic.,2025-01-19 18:08:00
+64,35,5,5,Clear writing with practical examples.,2024-09-14 11:25:00
+65,8,67,1,Excellent book with strong examples.,2024-08-23 10:44:00
+66,25,75,5,Good pacing and useful details.,2024-02-21 10:23:00
+67,36,34,5,Good pacing and useful details.,2024-05-01 08:30:00
+68,12,64,5,Good pacing and useful details.,2024-08-05 06:26:00
+69,26,36,3,"Interesting, but some sections could be stronger.",2024-08-18 05:36:00
+70,15,13,4,Helpful for understanding the topic.,2025-01-04 08:51:00
+71,25,26,4,Thoughtful and engaging read about memory library.,2024-03-15 23:09:00
+72,27,64,4,Good pacing and useful details.,2024-03-09 20:33:00
+73,32,39,4,Helpful for understanding the topic.,2024-05-08 17:54:00
+74,45,21,4,Excellent book with strong examples.,2024-01-31 06:52:00
+75,29,43,4,Good pacing and useful details.,2024-05-13 11:23:00
+76,2,53,5,"Interesting, but some sections could be stronger.",2024-03-03 11:55:00
+77,37,74,3,Good pacing and useful details.,2024-11-28 20:34:00
+78,21,66,5,Helpful for understanding the topic.,2024-09-06 23:28:00
+79,19,60,3,Good pacing and useful details.,2024-11-19 04:55:00
+80,41,79,5,Thoughtful and engaging read about reader database.,2024-10-19 12:54:00
+81,22,30,4,Good pacing and useful details.,2024-06-09 10:41:00
+82,42,51,5,Good pacing and useful details.,2024-05-18 14:49:00
+83,38,67,3,Thoughtful and engaging read about systems memory.,2025-05-09 14:26:00
+84,47,31,5,Thoughtful and engaging read about reader signal.,2024-12-04 08:47:00
+85,11,51,5,Helpful for understanding the topic.,2024-02-22 03:04:00
+86,4,4,5,Thoughtful and engaging read about pipeline letters.,2025-01-29 12:33:00
+87,17,80,5,Helpful for understanding the topic.,2024-03-20 02:41:00
+88,15,32,5,Clear writing with practical examples.,2025-01-12 09:28:00
+89,11,4,5,Good pacing and useful details.,2024-01-18 21:22:00
+90,31,60,4,Helpful for understanding the topic.,2025-05-14 17:59:00
+91,45,70,4,Excellent book with strong examples.,2024-03-31 18:38:00
+92,37,56,4,Good pacing and useful details.,2024-09-25 20:40:00
+93,35,30,4,Helpful for understanding the topic.,2025-02-16 02:28:00
+94,10,39,5,Clear writing with practical examples.,2024-01-06 00:33:00
+95,19,61,5,Helpful for understanding the topic.,2024-09-30 00:44:00
+96,19,77,4,Helpful for understanding the topic.,2024-04-28 00:35:00
+97,36,56,5,Excellent book with strong examples.,2024-07-21 07:10:00
+98,25,29,5,"Interesting, but some sections could be stronger.",2024-05-14 02:27:00
+99,40,35,4,Good pacing and useful details.,2024-05-25 20:47:00
+100,13,9,3,Helpful for understanding the topic.,2024-04-03 04:18:00
+101,29,35,3,Thoughtful and engaging read about northern query.,2024-12-24 19:31:00
+102,4,69,4,Clear writing with practical examples.,2024-01-12 05:06:00
+103,29,2,1,Clear writing with practical examples.,2024-04-29 02:09:00
+104,27,40,4,Thoughtful and engaging read about pipeline database.,2025-02-06 15:23:00
+105,6,19,4,"Interesting, but some sections could be stronger.",2024-01-29 08:49:00
+106,12,25,4,Thoughtful and engaging read about silent cloud.,2025-04-03 08:52:00
+107,50,32,5,Thoughtful and engaging read about cloud silent.,2024-07-16 14:15:00
+108,30,13,4,Excellent book with strong examples.,2024-09-23 21:13:00
+109,21,21,5,"Interesting, but some sections could be stronger.",2024-11-18 23:02:00
+110,8,33,3,Thoughtful and engaging read about reader letters.,2024-09-03 20:19:00
+111,43,28,5,Good pacing and useful details.,2025-05-13 03:15:00
+112,11,36,5,Thoughtful and engaging read about python signal.,2024-10-26 03:25:00
+113,38,61,4,Thoughtful and engaging read about midnight scaling.,2024-12-18 19:09:00
+114,11,64,4,Excellent book with strong examples.,2024-02-16 21:39:00
+115,4,46,4,Thoughtful and engaging read about bookmark reader.,2024-11-26 04:44:00
+116,32,30,5,Good pacing and useful details.,2024-06-11 17:50:00
+117,29,25,4,Clear writing with practical examples.,2024-01-11 22:24:00
+118,3,63,4,Excellent book with strong examples.,2024-12-27 14:35:00
+119,13,73,4,Helpful for understanding the topic.,2024-04-05 17:22:00
+120,39,71,3,Good pacing and useful details.,2024-03-23 02:33:00
+121,17,70,5,"Interesting, but some sections could be stronger.",2024-07-06 14:00:00
+122,47,24,5,"Interesting, but some sections could be stronger.",2025-03-28 00:39:00
+123,21,9,4,"Interesting, but some sections could be stronger.",2024-12-03 17:52:00
+124,32,71,4,Excellent book with strong examples.,2024-03-19 19:18:00
+125,8,13,2,Clear writing with practical examples.,2024-09-24 21:04:00
+126,3,26,3,"Interesting, but some sections could be stronger.",2024-02-24 15:12:00
+127,25,63,4,Thoughtful and engaging read about silent pipeline.,2024-09-26 19:44:00
+128,15,78,5,Clear writing with practical examples.,2025-01-02 02:00:00
+129,32,11,4,Excellent book with strong examples.,2024-08-27 20:03:00
+130,27,48,5,Good pacing and useful details.,2025-02-10 22:03:00
+131,3,10,5,"Interesting, but some sections could be stronger.",2025-03-03 09:04:00
+132,7,30,3,Excellent book with strong examples.,2024-09-29 12:12:00
+133,36,72,5,"Interesting, but some sections could be stronger.",2024-07-31 23:06:00
+134,44,59,5,Clear writing with practical examples.,2024-12-25 21:27:00
+135,12,71,5,"Interesting, but some sections could be stronger.",2024-07-24 16:21:00
+136,29,46,5,Good pacing and useful details.,2025-04-07 10:35:00
+137,24,53,5,Good pacing and useful details.,2025-01-26 20:27:00
+138,16,73,5,Excellent book with strong examples.,2024-10-06 06:24:00
+139,24,58,5,Good pacing and useful details.,2024-08-17 12:00:00
+140,2,67,4,Clear writing with practical examples.,2024-03-10 09:00:00

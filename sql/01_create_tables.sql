@@ -43,7 +43,6 @@ CREATE TABLE IF NOT EXISTS books(
     price numeric(10, 2) not null check (price >= 0),
     publication_date date,
     created_at timestamptz not null default current_timestamp,
-
     constraint format_ check (format in ('ebook', 'audiobook', 'ebook_and_audiobook'))
 );
 

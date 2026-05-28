@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,country,created_at,updated_at
+1,Noah,Thompson,noah.thompson1@example.com,Germany,2024-06-24 10:00:00,2024-07-01 10:00:00
+2,Ava,Williams,ava.williams2@example.com,United States,2023-09-21 10:00:00,2023-10-09 10:00:00
+3,Mason,Chen,mason.chen3@example.com,United States,2025-03-02 10:00:00,2025-03-08 10:00:00
+4,Lucas,Brooks,lucas.brooks4@example.com,Canada,2023-07-25 10:00:00,2023-08-11 10:00:00
+5,Olivia,Carter,olivia.carter5@example.com,Germany,2024-01-28 10:00:00,2024-02-11 10:00:00
+6,Amelia,Davis,amelia.davis6@example.com,United Kingdom,2025-03-26 10:00:00,2025-04-17 10:00:00
+7,Mason,Patel,mason.patel7@example.com,United Kingdom,2024-06-21 10:00:00,2024-06-27 10:00:00
+8,Chloe,Williams,chloe.williams8@example.com,Spain,2024-12-28 10:00:00,2024-12-31 10:00:00
+9,Aiden,Garcia,aiden.garcia9@example.com,Australia,2023-07-23 10:00:00,2023-08-17 10:00:00
+10,Liam,Okafor,liam.okafor10@example.com,United States,2023-09-30 10:00:00,2023-10-29 10:00:00
+11,Grace,Martinez,grace.martinez11@example.com,Australia,2023-09-14 10:00:00,2023-10-10 10:00:00
+12,Jack,Garcia,jack.garcia12@example.com,Germany,2023-08-19 10:00:00,2023-09-10 10:00:00
+13,Sophia,Chen,sophia.chen13@example.com,Australia,2024-08-11 10:00:00,2024-08-13 10:00:00
+14,Lucas,Williams,lucas.williams14@example.com,Australia,2024-03-08 10:00:00,2024-03-22 10:00:00
+15,Aiden,Brown,aiden.brown15@example.com,France,2024-03-18 10:00:00,2024-03-24 10:00:00
+16,Emma,Martinez,emma.martinez16@example.com,United Kingdom,2023-07-18 10:00:00,2023-08-04 10:00:00
+17,Lucas,Brown,lucas.brown17@example.com,Spain,2023-12-15 10:00:00,2023-12-23 10:00:00
+18,Henry,Kim,henry.kim18@example.com,Canada,2024-05-04 10:00:00,2024-05-11 10:00:00
+19,Liam,Patel,liam.patel19@example.com,Australia,2024-02-16 10:00:00,2024-02-18 10:00:00
+20,Olivia,Nguyen,olivia.nguyen20@example.com,Germany,2024-05-14 10:00:00,2024-06-03 10:00:00
+21,Leo,Morgan,leo.morgan21@example.com,India,2023-06-13 10:00:00,2023-06-17 10:00:00
+22,Emma,Singh,emma.singh22@example.com,South Korea,2024-07-23 10:00:00,2024-08-09 10:00:00
+23,Emma,Nguyen,emma.nguyen23@example.com,Brazil,2024-01-19 10:00:00,2024-01-31 10:00:00
+24,Aiden,Kim,aiden.kim24@example.com,South Korea,2024-11-11 10:00:00,2024-11-26 10:00:00
+25,Sophia,Chen,sophia.chen25@example.com,United Kingdom,2024-12-10 10:00:00,2024-12-30 10:00:00
+26,Ethan,Lee,ethan.lee26@example.com,United States,2023-07-31 10:00:00,2023-08-12 10:00:00
+27,Grace,Taylor,grace.taylor27@example.com,South Korea,2023-12-09 10:00:00,2023-12-17 10:00:00
+28,Henry,Thompson,henry.thompson28@example.com,South Korea,2024-12-05 10:00:00,2024-12-29 10:00:00
+29,Emma,Patel,emma.patel29@example.com,Australia,2024-12-08 10:00:00,2024-12-21 10:00:00
+30,Ethan,Okafor,ethan.okafor30@example.com,Australia,2025-03-29 10:00:00,2025-04-14 10:00:00
+31,Ethan,Brooks,ethan.brooks31@example.com,Australia,2024-12-14 10:00:00,2025-01-09 10:00:00
+32,Nora,Taylor,nora.taylor32@example.com,United Kingdom,2024-09-10 10:00:00,2024-09-21 10:00:00
+33,Ethan,Carter,ethan.carter33@example.com,Canada,2023-10-06 10:00:00,2023-10-25 10:00:00
+34,Chloe,Schmidt,chloe.schmidt34@example.com,United States,2025-03-13 10:00:00,2025-04-11 10:00:00
+35,Aiden,Wilson,aiden.wilson35@example.com,Canada,2024-07-30 10:00:00,2024-08-06 10:00:00
+36,Amelia,Martinez,amelia.martinez36@example.com,India,2025-01-04 10:00:00,2025-01-30 10:00:00
+37,Sophia,Carter,sophia.carter37@example.com,United Kingdom,2024-11-24 10:00:00,2024-12-15 10:00:00
+38,Leo,Carter,leo.carter38@example.com,Australia,2024-10-14 10:00:00,2024-10-30 10:00:00
+39,Jack,Lee,jack.lee39@example.com,South Korea,2024-08-28 10:00:00,2024-09-21 10:00:00
+40,Olivia,Wilson,olivia.wilson40@example.com,France,2024-02-18 10:00:00,2024-03-03 10:00:00
+41,Nora,Okafor,nora.okafor41@example.com,Germany,2024-11-29 10:00:00,2024-12-06 10:00:00
+42,Sophia,Patel,sophia.patel42@example.com,Brazil,2025-03-11 10:00:00,2025-03-28 10:00:00
+43,Lucas,Nguyen,lucas.nguyen43@example.com,Canada,2024-08-19 10:00:00,2024-08-21 10:00:00
+44,Liam,Kim,liam.kim44@example.com,Canada,2025-01-22 10:00:00,2025-02-18 10:00:00
+45,Chloe,Martinez,chloe.martinez45@example.com,Germany,2023-10-23 10:00:00,2023-10-31 10:00:00
+46,Leo,Johnson,leo.johnson46@example.com,United Kingdom,2023-09-27 10:00:00,2023-10-20 10:00:00
+47,Amelia,Nguyen,amelia.nguyen47@example.com,Germany,2023-12-04 10:00:00,2023-12-29 10:00:00
+48,Leo,Lee,leo.lee48@example.com,United States,2024-09-19 10:00:00,2024-09-22 10:00:00
+49,Mason,Garcia,mason.garcia49@example.com,Spain,2024-01-24 10:00:00,2024-02-07 10:00:00
+50,Liam,Williams,liam.williams50@example.com,Spain,2025-01-29 10:00:00,2025-02-21 10:00:00
