@@ -84,7 +84,8 @@ CREATE TABLE IF NOT EXISTS subscriptions(
     plan_status varchar(50) not null default 'active',
     start_date date not null default current_date,
     end_date date,
-
+    monthly_price numeric(10, 2) not null default 0 check(monthly_price >= 0),
+    created_at timestamptz not null default current_timestamp,
     constraint subs_status check (plan_status in ('active', 'cancelled', 'expired', 'pause')),
     constraint subs_date check (end_date is null or end_date >= start_date)
 );
